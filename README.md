@@ -17,3 +17,6 @@ This specific procedure introduces some bias.
 1) A runner-up is chosen
 2) A list of all possible opponents left is created (based on valid draws remaining)
 3) Opponent is drawn
+
+
+![Heatmap](https://github.com/WaryPainter/UCL-Draw-Simulation/blob/master/heatmap.png)
